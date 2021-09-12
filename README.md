@@ -15,6 +15,7 @@ Facebook Random Cloning. Four Country All Digit  Cloning  . BAN, PAK, IND, AFG
 ![20200808_160757](https://github.com/James404-cyber/4-COUNTRY/raw/main/IMG-20210911-WA0007.jpg)
 
 
+![20200808_160757](https://github.com/James404-cyber/4-COUNTRY/blob/main/IMG-20210911-WA0143.jpg)
 
 
 ## <b>installation</b>
