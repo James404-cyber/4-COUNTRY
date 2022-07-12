@@ -7,8 +7,8 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from libfour import menu
-    menu()
+    from ik import _site_view_
+   _site_view_()
 elif bit == '32bit':
     from libfour import menu
     menu()
